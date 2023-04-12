@@ -14,9 +14,6 @@ Ferramentas:
 npm install
 ``` 
 
-Com Docker compose
-
-
 
 ## Autor 👥
 
