@@ -1,10 +1,26 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto My SQL all for one
+
+Este projeto foi desenvolvido no módulo de Back-end do curso da Trybe.
+O projeto é constituido por 27 desafios que aplicam os conceitos de SQL, utilizando o banco de dados Northwind
+
+## Tecnologias usadas 🛠
+
+Ferramentas:
+- MySQL Workbench
+
+## Executando aplicação ⚡️
+
+```
+npm install
+``` 
+
+Com Docker compose
+
+
+
+## Autor 👥
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marques-bruno/](https://www.linkedin.com/in/marques-bruno/))
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marqsbruno](https://github.com/marqsbruno))
+
+O arquivo "docker-compose.yml" são de autoria da escola [Trybe](https://github.com/tryber)
